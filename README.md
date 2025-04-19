@@ -24,7 +24,7 @@ Ready for the next chapter in data science with a strong commitment to continuou
 ## Work Experience
 
 **Maestro Intellect (01/2024 – Current)**  
-*Data Scientist*  
+*Machine Learning Engineer*  
 - Spearheading the development of machine learning models for automating loan sanctioning processes.  
 - Collaborated with financial analysts to ensure compliance and accuracy in model predictions.  
 - Utilized tools such as Python, Scikit-learn, and SQL for data wrangling, modeling, and analysis.  
@@ -33,6 +33,18 @@ Ready for the next chapter in data science with a strong commitment to continuou
 ---
 
 ## Project
+
+### Loan To Sanction Project
+
+- Spearheaded a high-impact project on loan sanctioning, achieving a
+  remarkable 91% accuracy rate through meticulous exploratory data
+  analysis (EDA) and advanced feature engineering techniques.
+- Developed and implemented ML models to optimize the loan sanctioning process.
+- Conducted in-depth data analysis to identify key factors influencing
+  loan sanctioning decisions, providing valuable insights for business strategy.
+- Successfully deployed models into production, contributing to a
+- significant improvement in the loan sanctioning process.
+- Analyzed e-commerce customer feedback data to uncover trends and patterns influencing satisfaction.
 
 ### Optimizing Customer Satisfaction: Dashboard Analysis Project
 
