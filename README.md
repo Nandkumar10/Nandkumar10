@@ -59,7 +59,7 @@ Ready for the next chapter in data science with a strong commitment to continuou
 
 ## Education
 
-- BTech in Mechanical, Solapur University (2020-2023)
+- BTech in Mechanical, Solapur University (2020-2024)
 
 ---
 
