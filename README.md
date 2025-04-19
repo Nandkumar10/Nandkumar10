@@ -65,4 +65,4 @@ Ready for the next chapter in data science with a strong commitment to continuou
 
 ## Certifications
 
-- Full Stack Data Scientist, Data Scientist Pune
+- Full Stack Data Scientist, Data Scientist Pune.
